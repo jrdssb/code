@@ -1,0 +1,3 @@
+﻿  t7_2_02.cpp
+C:\Users\DELL\source\repos\t7_2_02\t7_2_02\t7_2_02.cpp(152): warning C4715: “hufftree::findcode”: 不是所有的控件路径都返回值
+  t7_2_02.vcxproj -> C:\Users\DELL\source\repos\t7_2_02\x64\Debug\t7_2_02.exe
