@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1711003954 source:f:\parallel\project\sumnot\main.cpp
+	<iostream>
+	<iomanip>
+	<time.h>
+
